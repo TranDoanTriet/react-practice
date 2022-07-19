@@ -15,3 +15,6 @@ Export User ra file .csv,
 
 Tự do tùy chỉnh html, css, để có một website nhẹ nhàng, khoa học và đẹp.
 Triển khai website lên Heroku để demo.
+
+clone
+run: npm start
